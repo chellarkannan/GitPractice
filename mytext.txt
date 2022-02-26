@@ -1,3 +1,7 @@
 Kannan is learning git
 Completed fast forard merge
-Completed recursive merge 
+Completed recursive merge
+Learning Stashing in progress
+testing stashing example
+change made in feature2Branch
+testing the changes in feature2branch
