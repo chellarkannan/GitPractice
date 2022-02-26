@@ -1,2 +1,0 @@
-Kannan is learning git
-Adding a second line in the master branch
