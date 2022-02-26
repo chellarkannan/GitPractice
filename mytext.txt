@@ -1,1 +1,2 @@
 Kannan is learning git
+second line is added from feature2Branch
